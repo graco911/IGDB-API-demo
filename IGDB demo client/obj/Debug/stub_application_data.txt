@@ -1,0 +1,2 @@
+android.app.Application
+IGDB_demo_client.IGDB_demo_client
