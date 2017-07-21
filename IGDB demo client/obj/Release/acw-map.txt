@@ -1,0 +1,20 @@
+IGDB_demo_client.GameDetailActivity, IGDB demo client;md5386e60a7d0527b5aaa8d10e09ff7ea9d.GameDetailActivity
+IGDB_demo_client.GameDetailActivity, IGDB demo client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5386e60a7d0527b5aaa8d10e09ff7ea9d.GameDetailActivity
+IGDB_demo_client.GameDetailActivity;md5386e60a7d0527b5aaa8d10e09ff7ea9d.GameDetailActivity
+igdb_demo_client.GameDetailActivity;md5386e60a7d0527b5aaa8d10e09ff7ea9d.GameDetailActivity
+IGDB_demo_client.MainActivity, IGDB demo client;md5386e60a7d0527b5aaa8d10e09ff7ea9d.MainActivity
+IGDB_demo_client.MainActivity, IGDB demo client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5386e60a7d0527b5aaa8d10e09ff7ea9d.MainActivity
+IGDB_demo_client.MainActivity;md5386e60a7d0527b5aaa8d10e09ff7ea9d.MainActivity
+igdb_demo_client.MainActivity;md5386e60a7d0527b5aaa8d10e09ff7ea9d.MainActivity
+CustomAdapter.GamesAdapter, CustomAdapter;md5113ce066a1685bc4ef9d90502e7707d9.GamesAdapter
+CustomAdapter.GamesAdapter, CustomAdapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5113ce066a1685bc4ef9d90502e7707d9.GamesAdapter
+CustomAdapter.GamesAdapter;md5113ce066a1685bc4ef9d90502e7707d9.GamesAdapter
+customadapter.GamesAdapter;md5113ce066a1685bc4ef9d90502e7707d9.GamesAdapter
+Square.Picasso.RequestCreator/ActionCallback, Square.Picasso;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.RequestCreator+ActionCallback, Square.Picasso, Version=2.5.2.0, Culture=neutral, PublicKeyToken=null;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.RequestCreator.ActionCallback;com.squareup.picasso.RequestCreator_ActionCallback
+com.squareup.picasso.RequestCreator_ActionCallback;com.squareup.picasso.RequestCreator_ActionCallback
+Square.Picasso.Picasso/IListenerImplementor, Square.Picasso;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Square.Picasso.Picasso+IListenerImplementor, Square.Picasso, Version=2.5.2.0, Culture=neutral, PublicKeyToken=null;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Square.Picasso.Picasso.IListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
+mono.com.squareup.picasso.Picasso_ListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor

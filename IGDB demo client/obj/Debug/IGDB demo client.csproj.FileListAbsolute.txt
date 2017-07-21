@@ -1,7 +1,5 @@
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\IGDB demo client.dll
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\IGDB demo client.pdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\IGDB_demo_client.IGDB_demo_client.apk
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\IGDB_demo_client.IGDB_demo_client-Signed.apk
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\CustomAdapter.dll
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\Entities.dll
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\SAL.dll
@@ -15,7 +13,6 @@ C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\I
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\IGDB demo client.csprojResolveAssemblyReference.cache
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\IGDB demo client.dll
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\IGDB demo client.pdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\bin\IGDB_demo_client.IGDB_demo_client.apk
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\res\layout\game_detail.xml
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\res\layout\listview_item.xml
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\res\layout\main.xml
@@ -24,11 +21,6 @@ C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\I
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\R.cs.flag
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\uploadflags.txt
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\Square.OkIO.dll
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\CustomAdapter.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\Entities.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\SAL.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\IGDB demo client.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\assets\CustomAdapter.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\assets\Entities.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\assets\IGDB demo client.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\assets\SAL.dll.mdb
+C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\gracodev.igdbdemo.apk
+C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\bin\Debug\gracodev.igdbdemo-Signed.apk
+C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Debug\android\bin\gracodev.igdbdemo.apk

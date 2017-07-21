@@ -14,5 +14,3 @@ C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\C
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\CustomAdapter\obj\Debug\res\values\strings.xml
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\CustomAdapter\obj\Debug\R.cs.flag
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\CustomAdapter\obj\Debug\uploadflags.txt
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\CustomAdapter\bin\Debug\Entities.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\CustomAdapter\bin\Debug\CustomAdapter.dll.mdb

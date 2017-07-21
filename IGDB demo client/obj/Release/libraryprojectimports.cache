@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\CustomAdapter\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\Entities\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\SAL\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\CustomAdapter\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Entities\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SAL\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\CustomAdapter.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\Entities.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\IGDB demo client\obj\Release\__library_projects__\SAL.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -8,4 +8,3 @@ C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\E
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\Entities\obj\Debug\res\values\strings.xml
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\Entities\obj\Debug\R.cs.flag
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\Entities\obj\Debug\uploadflags.txt
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\Entities\bin\Debug\Entities.dll.mdb

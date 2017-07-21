@@ -13,5 +13,3 @@ C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\S
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\SAL\obj\Debug\res\values\strings.xml
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\SAL\obj\Debug\R.cs.flag
 C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\SAL\obj\Debug\uploadflags.txt
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\SAL\bin\Debug\Entities.dll.mdb
-C:\Users\Carlos Alberto\Documents\Visual Studio 2017\Projects\TheGamedbAPIDemo\SAL\bin\Debug\SAL.dll.mdb

@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace IGDB_demo_client
 {
-    [Activity(Label = "IGDB_demo_client", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "@string/ApplicationName", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         ServiceClient serviceclient = new ServiceClient();
@@ -36,12 +36,18 @@ namespace IGDB_demo_client
             {
                 progress.Show();
                 listajuegos = await serviceclient.GetGamesAsync(nombrejuego.Text);
-                if (listajuegos != null)
+                if (listajuegos.Count > 0)
                 {
                     adapter = new GamesAdapter(this, listajuegos, Resource.Layout.listview_item, Resource.Id.textViewGameName, Resource.Id.textViewIdGame, Resource.Id.imageViewGame);
                     lista.Adapter = adapter;
+                    progress.Hide();
                 }
-                progress.Hide();
+                else
+                {
+                    Toast.MakeText(this, "Error", ToastLength.Long).Show();
+                    progress.Hide();
+                }
+
             };
 
             lista.ItemClick += Lista_ItemClick;
